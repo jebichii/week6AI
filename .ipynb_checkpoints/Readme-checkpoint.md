@@ -6,7 +6,7 @@
 3. Keren Hapuch Ntinyari - karenhapuch68@gmail.com
 4. Jebichii  Joyce - jebichiijoyce@gmail.com
 5. Palpable Smart - palpable237@gmail.com
-6. 
+
 This repository documents an in-depth exploration of advanced AI topics, including Edge AI, Quantum AI, AI-driven IoT systems, ethics in healthcare, and visionary concepts for 2030. It contains essay responses, a smart cities critique, hands-on implementation reports, and a bonus quantum simulation task.
 
 ---
@@ -155,8 +155,7 @@ An AI-powered NeuroTherapist system integrated with non-invasive Brain-Computer 
 ```plaintext
 ├── Essays/
 │   ├── part1
-├── Case_Study/
-│   └── Smart_City_Traffic_AI_IoT.md
+    ├── edgeai.md
 ├── Implementation/
 │   ├── EdgeAI_Prototype/
 │   ├── SmartAgri_Proposal/
